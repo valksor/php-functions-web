@@ -1,0 +1,8 @@
+# Test artifacts
+.coverage/*
+!.coverage/clover.xml
+.phpunit.cache/
+
+# Dependencies
+vendor/
+composer.lock
